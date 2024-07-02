@@ -7,7 +7,7 @@ function App() {
             <div class="row justify-content-center justify-content-md-between">
                 <div class="col-8 col-md-3">
                     <a href="index.html">
-                        <img class="img-fluid" src="./public/img/logo.svg" alt="imagen logo" />
+                        <img class="img-fluid" src="./public/img/logodrums.svg" alt="imagen logo" />
                     </a>
                 </div>
                 <nav class="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
@@ -31,7 +31,7 @@ function App() {
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <img class="img-fluid" src="./public/img/guitarra_02.jpg" alt="imagen guitarra" />
+                                            <img class="img-fluid" src="./public/img/bateria-digital-roland-td.webp" alt="drum img" />
                                         </td>
                                         <td>SRV</td>
                                         <td class="fw-bold">
@@ -74,15 +74,15 @@ function App() {
     </header>
 
     <main class="container-xl mt-5">
-        <h2 class="text-center">Nuestra Colección</h2>
+        <h2 class="text-center">Collection</h2>
 
         <div class="row mt-5">
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_01.jpg" alt="imagen guitarra" />
+                    <img class="img-fluid" src="./public/img/bateria-legend-classic-serie-birch-walnut.webp" alt="drum img" />
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Lukather</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Legend classic</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -94,10 +94,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_02.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-legend-classic-serie--negro.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">SRV</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Legend Classic</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -109,10 +109,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_03.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-legend-one-f-birch-walnut.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Borland</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Legend Classic one</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -124,10 +124,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_04.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-mapex-tornado.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Vai</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Mapex Tornado</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -139,10 +139,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_05.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-tornado-standard-bk.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Thompson</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Mapex Tornado</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -154,10 +154,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_06.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-tornado-standard-rd.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">White</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Mapex Tornado</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -169,10 +169,10 @@ function App() {
 
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_07.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-pearl-decade-maple-fusion-20-brown.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Cobain</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Pearl Decade</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -183,10 +183,10 @@ function App() {
             </div>
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_08.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-pearl-roadshow-fusion-blk.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Dale</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Pearl Roadshow</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -197,10 +197,10 @@ function App() {
             </div>
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_09.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-pearl-roadshow-fusion-bro.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Krieger</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Pearl Roadshow</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -211,10 +211,10 @@ function App() {
             </div>
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_10.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-pearl-roadshow-fusion-cha.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Campbell</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Pearl Roadshow</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -225,10 +225,10 @@ function App() {
             </div>
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_11.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-electronica-alesis.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Reed</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Digital Alesis</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -239,10 +239,10 @@ function App() {
             </div>
             <div class="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div class="col-4">
-                    <img class="img-fluid" src="./public/img/guitarra_12.jpg" alt="imagen guitarra"/>
+                    <img class="img-fluid" src="./public/img/bateria-digital-roland-td.webp" alt="drum img"/>
                 </div>
                 <div class="col-8">
-                    <h3 class="text-black fs-4 fw-bold text-uppercase">Hazel</h3>
+                    <h3 class="text-black fs-4 fw-bold text-uppercase">Digital Roland</h3>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
                     <p class="fw-black text-primary fs-3">$299</p>
                     <button 
@@ -257,7 +257,7 @@ function App() {
 
     <footer class="bg-dark mt-5 py-5">
         <div class="container-xl">
-            <p class="text-white text-center fs-4 mt-4 m-md-0">GuitarLA - Todos los derechos Reservados</p>
+            <p class="text-white text-center fs-4 mt-4 m-md-0">DrumsLA by flipeprez - All rights reserved</p>
         </div>
     </footer>
         </>
